@@ -77,3 +77,13 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+1. https://github.com/regexpert/rig-handover-s01e04/issues/1 — Run log reader + types.ts
+2. https://github.com/regexpert/rig-handover-s01e04/issues/2 — Digest page
+3. https://github.com/regexpert/rig-handover-s01e04/issues/3 — Digest JSON
+4. https://github.com/regexpert/rig-handover-s01e04/issues/4 — Board link
+5. https://github.com/regexpert/rig-handover-s01e04/issues/5 — Route tests
+6. https://github.com/regexpert/rig-handover-s01e04/issues/6 — Preview for review
+7. https://github.com/regexpert/rig-handover-s01e04/issues/7 — Clean up
